@@ -3,9 +3,8 @@
   composer = "Kenshi Yonezu"
   subtitle = "From \"Bootleg\" Album"
   arranger = "Uke Arr. Timothy"
-}
-\score {
-  \relative c' 
+
+
   {
     \new Staff \with { instrumentName ="ukulele" }
  \numericTimeSignature \time 4/4
